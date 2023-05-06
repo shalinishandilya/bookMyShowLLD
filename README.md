@@ -2,9 +2,9 @@
 Requirement Gathering:-This project contains the code which enables the user to perform actions like book,cancel,reschedule tickets using LLD concepts.
 
 **Actors**-: 
-*Customer
-*system
-*Admin
+---Customer
+---system
+---admin
 
 **Customer**- 
 *register in the app
