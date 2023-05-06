@@ -1,4 +1,4 @@
-# bookMyShowLLD
+# BookMyShowLowLevelDesign
 **Requirement Gathering**-:
 ```
 This project contains the code which enables the user to perform actions like book,cancel,reschedule tickets using LLD concepts.
