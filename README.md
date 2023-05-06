@@ -1,15 +1,18 @@
 # bookMyShowLLD
-Requirement Gathering:- This project contains the code which enables the user to perform actions like book,cancel,reschedule tickets using LLD concepts.
+**Requirement Gathering**-:
+```
+This project contains the code which enables the user to perform actions like book,cancel,reschedule tickets using LLD concepts.
+```
 
 **Actors**-:
-
+```
 1. Customer
 2. System
 3. Admin
-
+```
 
 **Customer**- 
-
+```
 1. Register in the app
 2. Login to the app 
 3. Select city
@@ -26,16 +29,17 @@ Requirement Gathering:- This project contains the code which enables the user to
 14. Add event to the calendar
 15. Rate the movie
 16. Call customer care if required
+```
 
 **System**- 
-
+```
 1. Onboard user
 2. Display city/movie/seat availability upon search
 3. Generate ticket for the event
 4. Notify customer upon ticket confirmation 
-
+```
 
 **Admin**-
-
+```
 1. Perform actions on behalf of customer i.e, to book tickets if customer faces issue,reschedule or cancel
-
+```
