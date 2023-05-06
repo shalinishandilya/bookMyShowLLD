@@ -1,10 +1,11 @@
 # bookMyShowLLD
 Requirement Gathering:-This project contains the code which enables the user to perform actions like book,cancel,reschedule tickets using LLD concepts.
 
-**Actors**-: 
----Customer
----system
----admin
+**Actors**-:
+
+1.Customer
+2.System
+3.Admin
 
 **Customer**- 
 *register in the app
